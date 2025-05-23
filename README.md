@@ -26,10 +26,8 @@ I'm a mathematics engineer who specializes in **Generative AI**, **LLMs**, and *
 ---
 
 ## 📫 Connect With Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mehmet0sahinn)
-- 🧠 [Kaggle](https://www.kaggle.com/mehmet0sahinn)
-- 🤗 [Hugging Face](https://huggingface.co/mehmet0sahinn)
-- 📁 [GitHub](https://github.com/mehmet0sahinn)
-- 📬 [Email](mailto:mehmet0.sahinn@gmail.com)
-
----
+- [LinkedIn](https://www.linkedin.com/in/mehmet0sahinn)
+- [Kaggle](https://www.kaggle.com/mehmet0sahinn)
+- [Hugging Face](https://huggingface.co/mehmet0sahinn)
+- [GitHub](https://github.com/mehmet0sahinn)
+- [Email](mailto:mehmet0.sahinn@gmail.com)
