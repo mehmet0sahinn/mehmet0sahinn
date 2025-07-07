@@ -1,4 +1,4 @@
-# Hey there, I'm \*\*Mehmet \*\*👋
+# Hey there, I'm **Mehmet**👋
 
 ---
 
@@ -39,14 +39,10 @@
 
 ## Connect with Me
 
-- [LinkedIn]\([https://www.linkedin.com/in/mehmet0sahinn](https://www.linkedin.com/in/mehmet0sahinn))
-
-- [Kaggle]\([https://www.kaggle.com/mehmet0sahinn](https://www.kaggle.com/mehmet0sahinn))
-
-- [Hugging Face]\([https://huggingface.co/mehmet0sahinn](https://huggingface.co/mehmet0sahinn))
-
-- [GitHub]\([https://github.com/mehmet0sahinn](https://github.com/mehmet0sahinn))
-
-- [Email]\(mailto:[mehmet0.sahinn@gmail.com](mailto:mehmet0.sahinn@gmail.com))
+- [LinkedIn](https://www.linkedin.com/in/mehmet0sahinn)
+- [Kaggle](https://www.kaggle.com/mehmet0sahinn)
+- [Hugging Face](https://huggingface.co/mehmet0sahinn)
+- [GitHub](https://github.com/mehmet0sahinn)
+- [Email](mailto:mehmet0.sahinn@gmail.com)
 
 ---
