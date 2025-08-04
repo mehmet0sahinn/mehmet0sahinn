@@ -15,7 +15,7 @@
 | ------------------------------------- | ----------------------------------------------------------------------- | ------------------------- |
 | **LoRA‑RAG Based Assistant**          | End‑to‑end Assistant system, quantized LoRA + RAG + FastAPI             |      QLoRA, LangChain     |
 | **Adaptive RAG**                      | Adaptive RAG pipeline built on LangGraph                                |        LangGraph          |
-| **Cross‑Lingual Adaptation**          | Cross-Lingual NER Adaptation to Turkish with the fine-tuned xlmr model  |      HF Transformers      |
+| **Cross‑Lingual NER Adaptation**      | Cross-Lingual NER Adaptation to Turkish with the fine-tuned xlmr model  |      HF Transformers      |
 
 > See more in the pinned repos below
 
