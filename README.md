@@ -2,24 +2,10 @@
 
 ---
 
-## About Me
-
-- AI Engineer & Researcher focused on **Generative AI**, and **AI Agents**.
-- Mathematical Engineering graduate (2025) with a peer‑reviewed Q2 journal paper on numerical methods.
-
 ## Current Focus
 
-- LangChain & LangGraph / AI Agents
+- LLM Orchestraion with LangChain & LangGraph
 - Building a GPT model from scratch
-
-## Tech Stack
-
-- Retrieval‑Augmented Generation (RAG) with Fine‑Tuned Models (LoRA)
-- Multilingual Named Entity Recognition (NER) with Transformers
-- Emotion‑Aware NLP Systems & Toxicity Filtering
-- Custom Tokenization & Comparative Model Evaluation
-- Transformers Architecture from Scratch
-- Scalable MLOps
 
 ---
 
@@ -27,22 +13,43 @@
 
 | Project                               | Brief                                                                   | Tech Highlights           |
 | ------------------------------------- | ----------------------------------------------------------------------- | ------------------------- |
-| **LoRA‑RAG Assistant**                | End‑to‑end QA system, quantized LoRA + dense retriever + FastAPI        | LangChain • Chroma DB     |
-| **ChatBot CLI**                       | Minimal LangChain + OpenAI chat CLI with in‑memory conversation history | Python • LangChain        |
-| **Machine Translator (microservice)** | Lightweight FastAPI + LangChain service for multilingual translation    | OpenAI API • LangServe    |
-| **Cross‑Lingual NER w/ XLM‑R**        | Zero & few‑shot adaptation to Turkish                                   | PyTorch • HF Transformers |
-| **Emotion Classifier**                | DistilBERT‑based multilabel emotion detection                           | HF Hub • Sklearn          |
+| **LoRA‑RAG Based Assistant**          | End‑to‑end QA system, quantized LoRA + dense retriever + FastAPI        | LoRA • Adaptive RAG       |
+| **Multi AI Agent System**             | Minimal LangChain + OpenAI chat CLI with in‑memory conversation history | LangGraph • LangChain     |
+| **Cross‑Lingual NER w/ XLM‑R**        | Zero & few‑shot adaptation to Turkish                                   | HF Transformers           |
+
 
 > See more in the pinned repos below
 
 ---
 
-## Connect with Me
+## Tech Stack
 
-- [LinkedIn](https://www.linkedin.com/in/mehmet0sahinn)
-- [Kaggle](https://www.kaggle.com/mehmet0sahinn)
-- [Hugging Face](https://huggingface.co/mehmet0sahinn)
-- [GitHub](https://github.com/mehmet0sahinn)
-- [Email](mailto:mehmet0.sahinn@gmail.com)
+### Core LLM
+- Hugging Face Transformers
+- Mistral 7B, LLama 3 8B, Gemma 3 1B
+- OpenAI API
+- Ollama & GGUF
+- Transformers Architecture
+
+### PEFT & Fine-Tuning
+- LoRA / QLoRA with HF trl
+- Unsloth
+- DPO / RLHF
+
+### RAG & LLM Orchestration
+- LangChain & LangGraph
+- Chroma
+
+### NLP Applications
+- Tokenization 
+- ChatBot
+- Sentiment Analysis
+- Named Entity Recognition (NER)
+
+### MLOps, Frameworks & Tools
+- PyTorch
+- Git, Docker, *Kubernetes
+- FastAPI, Gradio, Streamlit
+- *MLFlow
 
 ---
