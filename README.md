@@ -13,9 +13,9 @@
 
 | Project                               | Brief                                                                   | Tech Highlights           |
 | ------------------------------------- | ----------------------------------------------------------------------- | ------------------------- |
-| **LoRA‑RAG Based Assistant**          | End‑to‑end QA system, quantized LoRA + dense retriever + FastAPI        | LoRA • Adaptive RAG       |
-| **Multi AI Agent System**             | Minimal LangChain + OpenAI chat CLI with in‑memory conversation history | LangGraph • LangChain     |
-| **Cross‑Lingual NER w/ XLM‑R**        | Zero & few‑shot adaptation to Turkish                                   | HF Transformers           |
+| **LoRA‑RAG Based Assistant**          | End‑to‑end Assistant system, quantized LoRA + RAG + FastAPI             |      QLoRA, LangChain     |
+| **Adaptive RAG**                      | Adaptive RAG pipeline built on LangGraph                                |        LangGraph          |
+| **Cross‑Lingual NER w/ XLM‑R**        | Cross-Lingual NER Adaptation to Turkish with the fine-tuned xlmr model  |      HF Transformers      |
 
 
 > See more in the pinned repos below
