@@ -28,7 +28,8 @@
 - Mistral 7B, LLama 3 8B, Gemma 3 1B
 - OpenAI API
 - Ollama & GGUF
-- Transformers Architecture
+- Transformer Architecture
+- Attention Mechanism
 
 ### PEFT & Fine-Tuning
 - LoRA / QLoRA with HF trl
