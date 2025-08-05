@@ -4,7 +4,7 @@
 
 ## Current Focus
 
-- LLM Orchestraion with LangChain & LangGraph
+- LLM Orchestration with LangChain & LangGraph
 - Building a GPT model from scratch
 
 ---
