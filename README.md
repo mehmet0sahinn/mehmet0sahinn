@@ -39,12 +39,6 @@
 - LangChain & LangGraph
 - Chroma
 
-### NLP Applications
-- Tokenization 
-- ChatBot
-- Sentiment Analysis
-- Named Entity Recognition (NER)
-
 ### MLOps, Frameworks & Tools
 - PyTorch
 - Git, Docker, *Kubernetes
