@@ -9,18 +9,6 @@
 
 ---
 
-## Featured Projects
-
-| Project                               | Brief                                                                   | Tech Highlights           |
-| ------------------------------------- | ----------------------------------------------------------------------- | ------------------------- |
-| **LoRA‑RAG Based Assistant**          | End‑to‑end Assistant system, quantized LoRA + RAG + FastAPI             |      QLoRA, LangChain     |
-| **Adaptive RAG**                      | Adaptive RAG pipeline built on LangGraph                                |        LangGraph          |
-| **Cross‑Lingual NER Adaptation**      | Cross-Lingual NER Adaptation to Turkish with the fine-tuned xlmr model  |      HF Transformers      |
-
-> See more in the pinned repos below
-
----
-
 ## Tech Stack
 
 ### Core LLM
@@ -32,12 +20,15 @@
 - Attention Mechanism
 
 ### PEFT & Fine-Tuning
-- LoRA / QLoRA with HF trl
+- LoRA / QLoRA
+- Hugging Face SFT
 - Unsloth
 - DPO / RLHF
 
 ### RAG & LLM Orchestration
-- LangChain & LangGraph
+- LangChain
+- LangGraph
+- Vector Databases
 - Chroma
 
 ### MLOps, Frameworks & Tools
